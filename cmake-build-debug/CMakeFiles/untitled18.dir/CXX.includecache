@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nat/CLionProjects/untitled18/Johnson-Trotter.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
